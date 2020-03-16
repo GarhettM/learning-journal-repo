@@ -1,4 +1,4 @@
-![Image](https://canvas.instructure.com/about/25533395#)
+![Image](https://pbs.twimg.com/profile_images/1205904393935024128/EWgRuxD4_400x400.jpg)
 
 # Garhett Morgan
 
