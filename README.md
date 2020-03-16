@@ -1,5 +1,7 @@
 ![Image](https://pbs.twimg.com/profile_images/1205904393935024128/EWgRuxD4_400x400.jpg)
 
+<!-- Only I can see this! -->
+
 # Garhett Morgan
 
 ## Growth Mindset
