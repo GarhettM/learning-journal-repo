@@ -1,3 +1,5 @@
+![Image](https://canvas.instructure.com/about/25533395#)
+
 # Garhett Morgan
 
 ## Growth Mindset
