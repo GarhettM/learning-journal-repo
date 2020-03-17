@@ -30,7 +30,33 @@ Git is a DVCS that stored data in a file system made up of snapshots.
     - start with `cd filename`
     - then use `git remote -v`
     - to add a remote repo `git remote add shortname url`
-   
+ 
+ 
+Fetching: THis pulls data that I don't have from a remote project.
+  - `git fetch [remote name]` will retrieve from a remote file. Need to have the references to all the branches for that remote location
+  
+  **Note:** git fetch solely pulls new data to a local repository; it does not merge changes with or modify your local work. We will discuss merging in a later section. Later, we will also discuss git pull , which allows for fetching and automatic merging.
+  
+**Pushing:** Use `git push [remote name][branch name]
+  - for example `git push origin master`
+  
+To Rename a remote location `git remote rename`
+    - example `git remote js jane` in this example we renamed "js" to "jane"
     
+To Remove a remote location `git remote rm jane`
+
+**Undoing Actions** 
+Commit mistakes: `git commit --amend`
+  - example: `git commit -m "first commit"
+  - `git add example_file`
+  - `git commit --amend`
+  
+**Unstaging a file**
+  - `git reset HEAD index.html`
+  
+**Umoddifying a file**
+  - `git checkout `` index.html
+
+
     
     
