@@ -10,7 +10,7 @@ I grew up here in Seattle but have lived in Chicago for a few years, as well as,
 
 ##Table of Contents
 
-  - Growth Mindset
+  - [Growth Mindset](https://garhettm.github.io/learning-journal-repo/growth-mindset)
   - Notes on Markdown
   - The Coders Computer
   - Git Notes
