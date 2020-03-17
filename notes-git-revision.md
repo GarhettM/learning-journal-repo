@@ -57,6 +57,10 @@ Commit mistakes: `git commit --amend`
 **Umoddifying a file**
   - `git checkout `` index.html
 
-This is new
+
+  asdlkjhfgal;wskdghj;alsdfkjg
+  asdfoghj;oisdfhg;al
+
+  asdgasdfg
     
     
