@@ -13,3 +13,6 @@ Feel free to check out [Landmark Worldwide](http://www.landmarkworldwide.com) fo
 - I have a clear goal for why I'm here.
 - This is what I've always wanted to do with my life.
 - I am valuable and worthy of a life I have always wanted to live.
+
+
+this is new
