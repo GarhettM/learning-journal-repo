@@ -15,3 +15,4 @@ I grew up here in Seattle but have lived in Chicago for a few years, as well as,
   - [The Coders Computer](https://garhettm.github.io/learning-journal-repo/coders-computer)
   - [Git Notes](https://garhettm.github.io/learning-journal-repo/notes-git-revision)
   - [Html5 Notes](https://garhettm.github.io/learning-journal-repo/html5-notes)
+  - [CSS Notes](https://garhettm.github.io/learning-journal-repo/css-notes)
