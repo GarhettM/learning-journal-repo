@@ -11,7 +11,7 @@ I grew up here in Seattle but have lived in Chicago for a few years, as well as,
 ##Table of Contents
 
   - [Growth Mindset](https://garhettm.github.io/learning-journal-repo/growth-mindset)
-  - Notes on Markdown
-  - The Coders Computer
-  - Git Notes
+  - [Notes on Markdown](https://garhettm.github.io/learning-journal-repo/notes-about-markdown)
+  - [The Coders Computer](https://garhettm.github.io/learning-journal-repo/coders-computer)
+  - [Git Notes](https://garhettm.github.io/learning-journal-repo/notes-git-revision)
 
