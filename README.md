@@ -18,3 +18,4 @@ I grew up here in Seattle but have lived in Chicago for a few years, as well as,
   - [CSS Notes](https://garhettm.github.io/learning-journal-repo/css-notes)
   - [Java Notes](https://garhettm.github.io/learning-journal-repo/java)
   - [Loop Notes](https://garhettm.github.io/learning-journal-repo/loops)
+  - [Computer Function Notes](https://garhettm.github.io/learning-journal-repo/computer)
